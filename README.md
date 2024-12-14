@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @icodevnet
+- 👀 I’m interested in the .net framework
+- 🌱 I’m currently learning the .net framework
+- 💞️ I’m looking to collaborate on .net framework projects
+- 📫 How to reach me: tbc
+- 😄 Pronouns: bro
+- ⚡ Fun fact: Santa gives christ bumps.
